@@ -78,23 +78,13 @@ I utilize a modern stack to deploy robust web solutions.
 | Forks                          | 12                                            |
 | Top Language                   | Python                                        |
 | Most Active Repository         | Career-Compass (AI Career App)               |
-| GitHub Achievements            | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedkhizarali&show_icons=true&theme=radical&hide_border=true&count_private=true)|
 
 <div align="center">
-  <a href="https://github.com/syedkhizarali">
-
-  <!-- Main Stats -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=syedkhizarali&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-  <!-- Top Languages -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedkhizarali&layout=compact&theme=tokyonight&hide_border=true" />
 
   <!-- Achievements -->
   <img src="https://github-profile-trophy.vercel.app/?username=syedkhizarali&theme=tokyonight&margin-w=15" />
 
-  </a>
 </div>
----
 
 ### 🤝 Let's Connect
 
@@ -102,13 +92,13 @@ I am always open to discussing backend architecture, Python best practices, or p
 
 <p align="left">
   <!-- Row 1 -->
-  <a href="https://www.linkedin.com/in/YOUR_LINK_HERE">
+  <a href="https://www.linkedin.com/in/syedkhizaralii">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/YOUR_NUMBER_HERE">
+  <a href="https://wa.me/+92 3154844005">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://facebook.com/YOUR_LINK_HERE">
+  <a href="https://facebook.com/syedkhizaralii">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
