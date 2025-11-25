@@ -78,13 +78,13 @@ I utilize a modern stack to deploy robust web solutions.
 | Forks                          | 12                                            |
 | Top Language                   | Python                                        |
 | Most Active Repository         | Career-Compass (AI Career App)               |
-| GitHub Achievements            | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedkhizarali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true")|
+| GitHub Achievements            | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedkhizarali&show_icons=true&theme=radical&hide_border=true&count_private=true)|
 
 <div align="center">
   <a href="https://github.com/syedkhizarali">
 
   <!-- Main Stats -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=syedkhizarali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=syedkhizarali&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
   <!-- Top Languages -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedkhizarali&layout=compact&theme=tokyonight&hide_border=true" />
