@@ -26,7 +26,7 @@
 
 ---
 
-### 👨‍💻 Who I Am
+### 🕺 Who I Am
 
 I am a professional *Python Web Developer* focused on building high-performance backend systems and scalable web applications. Unlike the visual nature of mobile dev, my expertise lies in the logic, security, and data flow that powers the web.
 
